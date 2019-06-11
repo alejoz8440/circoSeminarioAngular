@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+
+.header{
+    border: 2px solid gray;
+    text-align: center;
+    background: rgb(88, 88, 194);
+    color: white;
+}
+
+html,
+body {
+  height: 99%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
